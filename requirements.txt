@@ -1,0 +1,15 @@
+# Thư viện giao diện
+customtkinter>=4.6.3
+
+# Thư viện TTS
+edge-tts>=1.6.0
+
+# Thư viện điều khiển VLC
+python-vlc>=3.0.12118
+
+# Thư viện xử lý HTTP và scraping
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+
+# Thư viện xử lý ảnh
+Pillow>=8.2.0
